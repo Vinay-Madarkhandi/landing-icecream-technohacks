@@ -1,0 +1,10 @@
+import Footer from './Footer';
+import Hero from './Hero';
+import Services from './Services';
+import SpecialOffer from './SpecialOffer';
+import SuperQuality from './SuperQuality';
+import SweetBegninings from './SweetBegninings';
+import Nav from './Nav';
+import Subscribe from './Subscribe';
+import PopularProducts from './PopularProducts';
+export { Footer, Hero, Services, SpecialOffer, SuperQuality, SweetBegninings , Nav, Subscribe, PopularProducts};
